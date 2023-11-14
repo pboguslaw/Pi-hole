@@ -1,9 +1,9 @@
 #filtr linki ze strony https://cyberrescue.info/lista-platnych-subkskrypcji/#comment-1014
 #A
 allofstars.com
-AGamingZone.com/
+AGamingZone.com
 #B
-bathroomaisle.com/
+bathroomaisle.com
 beatshd.com
 beatshd4me.com
 bitgamez.com
@@ -44,7 +44,7 @@ dynander.com
 #E
 Electrshop247.com
 eonsmedia.zendesk.com
-eseekbox.com/
+eseekbox.com
 eshop4any.com
 #F
 FinalBlend.com
@@ -108,7 +108,7 @@ oveovv.com
 #P
 play2rewind.com
 Playallthis.com
-playjoltz.com/
+playjoltz.com
 playmonger.com
 planetplaygamz.com
 playoyd.com
@@ -148,7 +148,7 @@ voppily.com
 #W
 www2.eonsmedia.com
 www2.fundancer.net
-www2.invokefun.com/
+www2.invokefun.com
 #Y
 yakivu.com
 #Z
